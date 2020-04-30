@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="UserName">Name</string>
+    <string name="name">name</string>
+    <string name="Name">Name</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="no_of_attempts_remaining">No of attempts remaining:</string>
+    <string name="welcome_navin">welcome Navin</string>
+    <string name="newuser_or_signup">NewUser or SignUp?</string>
+    <string name="username">username</string>
+    <string name="passwo" translatable="false">Pass</string>
+    <string name="email">E-mail</string>
+    <string name="register">Register</string>
+    <string name="already_signedin_login">Already Signedin? Login</string>
+    <string name="userna">username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="already_login">Already Login!</string>
+    <string name="pass">pass</string>
+    <string name="passwd">passwd</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="mail">E-mail</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
